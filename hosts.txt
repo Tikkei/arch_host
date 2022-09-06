@@ -1,0 +1,2 @@
+44.209.57.127	ec2-44-209-57-127.compute-1.amazonaws.com
+127.0.0.1		ec2-44-209-57-127.compute-1.amazonaws.com
